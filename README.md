@@ -15,7 +15,7 @@ This repository contains the infrastructure layer for the Dennis AI ecosystem. I
 
 | Repository | Role |
 |---|---|
-| [dennis-personal-ai-site](https://github.com/dennismwebb/dennis-personal-ai-site) | Next.js frontend — avatar, chat UI |
+| [dennis-ai-site](https://github.com/dennismwebb/dennis-ai-site) | Next.js frontend — avatar, chat UI |
 | [dennis-ai-backend](https://github.com/dennismwebb/dennis-ai-backend) | .NET 8 API — AI agent, services |
 | [dennis-ai-data](https://github.com/dennismwebb/dennis-ai-data) | AI data assets — prompts, embeddings, knowledge base |
 
@@ -272,7 +272,7 @@ kubectl apply -k k8s/overlays/prod/
 
 | Repository | Description |
 |---|---|
-| [dennis-personal-ai-site](https://github.com/dennismwebb/dennis-personal-ai-site) | Next.js frontend — avatar, chat UI, pages |
+| [dennis-ai-site](https://github.com/dennismwebb/dennis-ai-site) | Next.js frontend — avatar, chat UI, pages |
 | [dennis-ai-backend](https://github.com/dennismwebb/dennis-ai-backend) | .NET 8 API — AI agent orchestration, services |
 | [dennis-ai-data](https://github.com/dennismwebb/dennis-ai-data) | AI data assets — prompts, embeddings, knowledge base |
 
